@@ -2,13 +2,16 @@ import re
 import os
 import json
 
+
 base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 input_path = os.path.join(base_dir, "input", "raw-text.txt")
+
 
 with open(input_path, "r") as f:
     text = f.read()
 
 print("File loaded successfully")
+
 
 def is_malicious(line):
     bad_patterns = [
@@ -54,14 +57,13 @@ for url in rejected_urls:
     print(url)
 
 # phone numbers
-
-# phone numbers
 phone_pattern = r"\+\d{1,3}[\s\-]?\(?\d[\d\s\-\)]{6,14}"
 all_phones = re.findall(phone_pattern, text)
 valid_phones = []
 rejected_phones = []
 for phone in all_phones:
-    # clean up any newlines or dashes picked up at the end
+    
+    # clean any different symbols in the numbers
     phone = phone.strip().split("\n")[0].strip()
     digits_only = re.sub(r"\D", "", phone)
     if set(digits_only) == {"0"}:
